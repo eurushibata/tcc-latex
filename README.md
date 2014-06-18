@@ -1,4 +1,4 @@
-tcc-tex
+tcc-latex
 =======
 
 LaTeX template for Final Project (Biomedical Informatics) from University of São Paulo - USP
